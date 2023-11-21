@@ -298,7 +298,7 @@
         <div class="sm:grid grid-cols-1 xl:grid-cols-3 lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-1 md:pb-0 pb-10">
           <div class="w-full col-span-2 py-10 font-sans">
             <div class="sm:pl-24">
-              <p class="text-xl font-normal text-black my-4">WHAT WE DO it</p>
+              <p class="text-xl font-normal text-black my-4">WHAT WE DO</p>
               <h1 class="text-[#2530c9] sm:text-5xl font-semibold my-4 text-4xl">About Us & Our Work</h1>
               <p class="text-[1.115rem] text-black xl:pr-64 sm:pr-10 md:pr-0 lg:pr-20 pr-10">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             </div>
