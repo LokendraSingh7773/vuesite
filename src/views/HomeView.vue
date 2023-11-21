@@ -112,7 +112,7 @@
   </section>
 
   <!-- Second section -->
-  <section id="second_section" class="bg-[#2530c9] md:flex justify-center block"> 
+  <section id="second_section" class="bg-[#2530c9] md:flex justify-center block "> 
     <div class="flex relative sm:block">
       <div class="grid md:grid-col-1 lg:grid-cols-2 gap-2 text-white  lg:pl-20 lg:pr-10 sm:pt-10 sm:pl-20 xl:pt-2 sm:pr-10 md:pl-10 pl-8 pr-8 sm:mt-0 mt-10"  >
         <div class="flex align-center items-center sm:pr-16 sm:pr-0 sm:align-start sm:block  md:flex md:align-center md:items-center md:pr-6 md:pl-0 xl:pl-24 xl:pr-20">
@@ -186,11 +186,11 @@
     <!-- New Section  -->
     <section>
       <div class="grid lg:grid-cols-2 lg:mt-16 mt-32 mb-10 lg:min-h-[800px] min-h-[900px]">
-        <div class="flex relative flex-col justify-center flex-nowrap  lg:min-w-[52rem] ">
-          <div class="bg-[#f9c9ce] min-h-[190px] flex lg:justify-center-items lg:justify-center justify-end items-center xl:max-w-[880px] lg:max-w-[800px] md:max-w-[800px] sm:max-w-[650px] max-w-[650px]">     
+        <div class="flex relative flex-col justify-center flex-nowrap  lg:min-w-[52rem] sm:pr-0 pr-16">
+          <div class="bg-[#f9c9ce] min-h-[190px] flex lg:justify-center-items lg:justify-center justify-end items-center xl:max-w-[880px] lg:max-w-[800px] md:max-w-[800px] sm:max-w-[650px] max-w-[650px] ">     
             <div class="bg-cover bg-center absolute md:min-h-[360px] md:w-[380px] lg:w-[280px] w-[320px] h-[400px] border-4 border-white lg:ml-0 lg:ml-0 lg:mr-[0px] mb-[14px]" style="background-image: url('https://images02.nicepage.com/c461c07a441a5d220e8feb1a/6d35051f156a5a558e14089e/v.jpg?version=;')"></div>            
           </div> 
-          <div class="flow self-center xl:pl-10 lg:pl-0 xl:pr-0 lg:pr-20 md:pl-24 lg:mt-10 lg:mt-10">
+          <div class="flow self-center xl:pl-10 lg:pl-0 xl:pr-0 lg:pr-20 md:pl-24 lg:mt-10 lg:mt-10 ">
               <div>
                 <p class="text-[#2530c9] font-semibold lg:text-3xl md:text-4xl text-3xl lg:mt-16 mt-32 lg:py-6 py-2">What We Offer:</p>
               </div>
@@ -230,16 +230,12 @@
             <p class="bg-[#f49ea8] hover:bg-[#259bca]  text-white px-10 py-3 font-bold text-lg rounded-full tracking-widest">LEARN MORE</p>
           </div>
           </div>
-          <div class=" flex self-end lg:ml-[110px] bottom-0 right-0">
-            <img class="lg:min-h-[300px] min-h-[262px] lg:mt-0 mt-36 md:ml-0 ml-20 lg:w-[650px] md:w-[450px]  w-[260px] object-[44% 50%] object-cover" src="https://images02.nicepage.com/c461c07a441a5d220e8feb1a/6baa3038983251ae8c7607a8/yhjcg.jpg"/>
+          <div class=" flex self-end lg:ml-[110px]">
+            <img class="lg:min-h-[300px] min-h-[262px] lg:mt-0 mt-36 md:ml-0 ml-20 xl:max-w-[650px] lg:max-w-[550px] md:max-w-[450px]  max-w-[360px] object-[44% 50%] object-cover" src="https://images02.nicepage.com/c461c07a441a5d220e8feb1a/6baa3038983251ae8c7607a8/yhjcg.jpg"/>
           </div>
         </div>
       </div>
     </section>
-
-
-
-
 
 
     <!-- third section -->
@@ -297,14 +293,14 @@
       <section id="project" class="">
         <div class="sm:grid grid-cols-1 xl:grid-cols-3 lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-1 md:pb-0 pb-10">
           <div class="w-full col-span-2 py-10 font-sans">
-            <div class="sm:pl-24">
+            <div class="sm:pl-24 pl-5">
               <p class="text-xl font-normal text-black my-4">WHAT WE DO</p>
               <h1 class="text-[#2530c9] sm:text-5xl font-semibold my-4 text-4xl">About Us & Our Work</h1>
               <p class="text-[1.115rem] text-black xl:pr-64 sm:pr-10 md:pr-0 lg:pr-20 pr-10">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             </div>
             <div class=" grid grid-cols-1 pt-8" >
               <div>
-              <div class=" text-3xl text-black sm:pl-24" >
+              <div class=" text-3xl text-black sm:pl-24 pl-5" >
                 <i class="fi fi-rs-angle-right"></i>
               </div>
              </div>
@@ -392,7 +388,7 @@
               </div>
             </div>
           </div>
-          <div class="md:p-12 sm:p-2 lg:text-start text-center ">
+          <div class="md:p-12 sm:p-2 lg:text-start text-center sm:pt-0 pt-8 ">
             <div class="pb-8 sm:">
               <p class="text-[#fc1aaf] text-3xl font-semibold">Address</p>
               <p class="text-black xl:pr-40 lg:pr-20 pt-4 md:pr-10  md:text-base sm:text-lg sm:pr-10 sm:px-0 px-12">1600 Amphitheatre Parkway, Mountain View, CA 94043</p>
@@ -446,13 +442,53 @@
 </template>
 
 
+<style>
+ .font-sans.bg-\[\#2530c9\].lg\:absolute.md\:relative.sm\:p-8.p-8.sm\:py-10.align-bottom.shadow-2xl.shadow-indigo-500\/50.sm\:block.sm\:p-0.sm\:py-0{
+  animation: MyDiv;
+  animation-duration: 1s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  animation-direction: normal;
+ }
+ @keyframes MyDiv {
+  0%   {left: 0px; }
+  100%  {left: 300px; }
+}
 
-<!--   <div class="w-48 color-white">
-          <svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content fill-white" viewBox="0 0 160 160" x="0px" y="0px" id="svg-0a30"><path d="M114.3,152.3l38-38C144.4,130.9,130.9,144.4,114.3,152.3z M117.1,9.1l-108,108c0.8,1.6,1.7,3.2,2.7,4.8l110-110
-	C120.3,10.9,118.7,10,117.1,9.1z M97.5,2L2,97.5c0.4,2,1,4,1.5,5.9l99.9-99.9C101.5,2.9,99.5,2.4,97.5,2z M80,160c2,0,4-0.1,5.9-0.2
-	l73.9-73.9c0.1-2,0.2-3.9,0.2-5.9c0-0.6,0-1.2,0-1.9L78.1,160C78.8,160,79.4,160,80,160z M34.9,146.1c1.5,1,3,2,4.6,2.9L149,39.5
-	c-0.9-1.6-1.9-3.1-2.9-4.6L34.9,146.1z M132.7,19.8L19.8,132.7c1.2,1.3,2.3,2.6,3.6,3.9L136.6,23.4C135.3,22.2,134,21,132.7,19.8z
-	 M59.6,157.4l97.8-97.8c-0.5-1.9-1.1-3.8-1.7-5.7L53.9,155.6C55.8,156.3,57.7,156.9,59.6,157.4z M7.6,45.9L45.9,7.6
-	C29.1,15.5,15.5,29.1,7.6,45.9z M80,0c-2.6,0-5.1,0.1-7.6,0.4l-72,72C0.1,74.9,0,77.4,0,80c0,0.1,0,0.2,0,0.2L80.2,0
-	C80.2,0,80.1,0,80,0z"></path></svg>
-        </div> -->
+.font-sans.bg-\[\#3e427e\].lg\:absolute.sm\:p-8.p-8.sm\:py-10.align-bottom.shadow-2xl.shadow-indigo-500\/50.sm\:block{
+  animation: MyDiv1;
+  animation-duration: 1s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  animation-direction: normal;
+}
+
+@keyframes MyDiv1 {
+  0%   {right: 0px; }
+  100%  {right: 300px; }
+}
+
+.flex.relative.flex-col.justify-center.gap-12.px-4.md\:mt-32.md\:pb-16.sm\:pb-48.leading-tight.text-white.md\:justify-self-center.min-w-\[250px\].md\:pb-0.sm\:pb-40.pb-4.md\:px-0.sm\:px-40.px-10{
+  animation: MyDiv2;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  animation-direction: normal;
+}
+@keyframes MyDiv2 {
+  0%   {right: -340px; }
+  100%  {right: 0px; }
+}
+
+.bg-white.md\:w-full.text-black.py-16.px-8.shadow-2xl{
+  animation: MyDiv_a;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+  animation-direction: normal;
+}
+@keyframes MyDiv_a {
+  0%   {right: 0px; }
+  100%  {right: 340px; }
+}
+</style>
