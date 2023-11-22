@@ -395,24 +395,24 @@
             </div>
             <div class="pb-8">
               <p class="text-[#fc1aaf] text-3xl font-semibold">Phone</p>
-              <p class="text-black lg:pr-32 pt-4 text-base sm:pr-0">+321 123 4567</p>
+              <a href="tel:998-249-9155" class="text-black lg:pr-32 pt-4 text-base sm:pr-0  hover:bg-[#ffffff00]">+91 998 249 9155</a>
             </div>
             <div class="pb-8">
               <p class="text-[#fc1aaf] text-3xl font-semibold">Email</p>
-              <p class="pt-4 font-bold text-[#2530c9] underline underline-offset-4 text-lg ">info@example.com</p>
+              <a href="mailto:lokendrasingh07773@email.com" class="pt-4 font-bold text-[#2530c9] underline underline-offset-4 text-lg hover:bg-[#ffffff00]">info@example.com</a>
             </div>
 
             <div class="sm:grid sm:justify-items-center lg:justify-items-start md:justify-items-center xl:justify-items-start grid justify-items-center mb-10">
               <div class="min-h-[1px] w-3/6 bg-[#5ca4fb] mt-16"></div>
               <div class="pt-4 px-4">
-                <i class="fi fi-brands-facebook   text-[#3B5998] text-3xl pr-4"></i>
-                <i class="fi fi-brands-twitter    text-[#55ACEE] text-3xl pr-4"></i>
-                <i class="fi fi-brands-instagram  text-[#C536A4] text-3xl pr-4"></i>
-                <i class="fi fi-brands-youtube    text-[#D22215] text-3xl pr-4"></i>
+                <a target="blank" class="hover:bg-white" href="https://www.facebook.com/lokendra.singhmertiya.589?mibextid=2JQ9oc"><i class="fi fi-brands-facebook text-[#3B5998] text-3xl pr-4"></i></a>                
+                <a target="blank" class="hover:bg-white" href="https://www.instagram.com/lokendra_banna7773"><i class="fi fi-brands-instagram  text-[#C536A4] text-3xl pr-4"></i></a>
+                <a target="blank" class="hover:bg-white" href="https://www.twitter.com/LokendraBanna19"><i class="fi fi-brands-twitter text-[#03a9f4] text-3xl pr-4"></i></a>
+                <a target="blank" class="hover:bg-white" href="https://wa.me/9982499155"><i class="fi fi-brands-whatsapp  text-[#39ae41] text-3xl pr-4"></i></a>
               </div>
             </div>
           </div>
-        </div>
+        </div><i class=""></i>
       </section>
 
 
