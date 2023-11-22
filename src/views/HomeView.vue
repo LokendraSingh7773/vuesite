@@ -221,7 +221,7 @@
         </div>  
         
         <!-- 2nd Section -->
-        <div class="md:items-center md:flex lg:mt-20 mt-10 flex   lg:justify-start sm:justify-center md:justify-end  sm:pl-0  pl-20">
+        <div class="md:items-center md:flex lg:mt-20 mt-10 flex   lg:justify-start sm:justify-center md:justify-end  sm:pl-0  pl-12">
           <div class="bg-[#2530c9] text-white lg:w-[470px] md:w-[400px] sm:w-[380px] w-[300px] absolute px-8 lg:mx-10 xl:mx-0 lg:py-10 py-4 lg:mr-0 md:mr-72">
             <p class="lg:text-4xl md:text-3xl text-xl font-semibold md:py-4" >BRANDING & DESIGN</p>
             <p class="lg:text-[1.050rem] lg:py-4 py-2 text-small">Quam nulla porttitor massa id neque aliquam vestibulum morbi. Eu consequat ac felis donec et odio pellentesque. Turpis nunc eget lorem dolor sed. Ornare quam viverra orci sagittis eu volutpat odio. Sed vulputate odio ut enim blandit volutpat.</p>
