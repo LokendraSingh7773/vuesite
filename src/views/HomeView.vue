@@ -91,7 +91,7 @@
 
   <!-- First_section -->
   <section class="bg-white">
-      <div class="relative bg-cover grid lg:grid-cols-2 grid-cols-1 gap-8 items-center " style="background:url('https://images03.nicepage.com/c461c07a441a5d220e8feb1a/d41ade51c46457079d42a82e/aser-min.jpg');height: 400px; background-position: 0% 20%;background-size: cover;">
+      <div class="relative bg-cover grid lg:grid-cols-2 grid-cols-1 gap-8 items-center interiorDesign " style="height: 400px; background-position: 0% 20%;background-size: cover;">
         <div class="md:flex lg:justify-end mt-56 justify-start sm:block lg:px-0 sm:px-10 px-8">
           <div class="font-sans bg-[#2530c9] lg:absolute md:relative sm:p-8 p-8 sm:py-10 align-bottom shadow-2xl shadow-indigo-500/50 sm:block sm:p-0 sm:py-0">
             <h1 class="sm:text-[3rem] leading-none text-white font-medium text-3xl">Digital Art<br>& Design Studio</h1>
@@ -129,7 +129,7 @@
         <div class=" mt-36 ">
           <div class="bg-white md:w-full  text-black py-16 px-8 shadow-2xl">
             <div class="md:shrink-0">
-              <img src="src/assets/images/network_icon.png" style="height: 80px; width: 80px;"/>
+              <img src="/src/assets/images/network_icon.png" style="height: 80px; width: 80px;"/>
             </div>
             <div class=" mt-4">
               <h5 class="text-2xl font-medium">Sample Headline</h5>
@@ -140,7 +140,7 @@
           </div>
           <div class="bg-white md:w-full text-black py-16 px-8 shadow-2xl mt-5">
             <div class="md:shrink-0">
-              <img src="src/assets/images/suitcase_icon.png" style="height: 80px; width: 80px;"/>
+              <img src="/src/assets/images/suitcase_icon.png" style="height: 80px; width: 80px;"/>
             </div>
             <div class="mt-4">
               <h5 class="text-2xl font-medium">Sample Headline</h5>
@@ -153,7 +153,7 @@
         <div class="mt-6">
           <div class="bg-white md:w-full text-black py-16 px-8 shadow-2xl">
             <div class="md:shrink-0">
-              <img src="src/assets/images/lightbulb_icon.png" style="height: 80px; width: 80px;"/>
+              <img src="/src/assets/images/lightbulb_icon.png" style="height: 80px; width: 80px;"/>
             </div>
             <div class="mt-4 ">
               <h5 class="text-2xl font-medium">Sample Headline</h5>
@@ -164,7 +164,7 @@
           </div>
           <div class="bg-white md:w-full text-black py-16 px-8 shadow-2xl mt-5">
             <div class="md:shrink-0">
-              <img src="src/assets/images/camera_icon.png" style="height: 80px; width: 80px;"/>
+              <img src="/src/assets/images/camera_icon.png" style="height: 80px; width: 80px;"/>
             </div>
             <div class="mt-4">
               <h5 class="text-2xl font-medium">Sample Headline</h5>
@@ -190,7 +190,7 @@
           <div class="bg-[#f9c9ce] min-h-[190px] flex lg:justify-center-items lg:justify-center justify-end items-center xl:max-w-[880px] lg:max-w-[800px] md:max-w-[800px] sm:max-w-[650px] max-w-[650px] ">     
             <div class="bg-cover bg-center absolute md:min-h-[360px] md:w-[380px] lg:w-[280px] w-[320px] h-[400px] border-4 border-white lg:ml-0 lg:ml-0 lg:mr-[0px] mb-[14px]" style="background-image: url('https://images02.nicepage.com/c461c07a441a5d220e8feb1a/6d35051f156a5a558e14089e/v.jpg?version=;')"></div>            
           </div> 
-          <div class="flow self-center xl:pl-10 lg:pl-0 xl:pr-0 lg:pr-20 md:pl-24 lg:mt-10 lg:mt-10 ">
+          <div class="flow self-center xl:pl-10 lg:pl-0 xl:pr-0 lg:pr-20 md:pl-24 lg:mt-10 lg:mt-10">
               <div>
                 <p class="text-[#2530c9] font-semibold lg:text-3xl md:text-4xl text-3xl lg:mt-16 mt-32 lg:py-6 py-2">What We Offer:</p>
               </div>
