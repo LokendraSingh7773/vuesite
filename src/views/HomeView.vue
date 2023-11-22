@@ -221,8 +221,8 @@
         </div>  
         
         <!-- 2nd Section -->
-        <div class="md:items-center md:flex lg:mt-20 mt-10 flex lg:justify-center xl:justify-start sm:justify-center md:justify-end">
-          <div class="bg-[#2530c9] text-white lg:w-[470px] md:w-[400px] w-[300px] absolute px-8 lg:mx-10 xl:mx-0 lg:py-10 py-4 lg:mr-0 md:mr-32 mr-0">
+        <div class="md:items-center md:flex lg:mt-20 mt-10 flex   lg:justify-start sm:justify-center md:justify-end  sm:pl-0  pl-20">
+          <div class="bg-[#2530c9] text-white lg:w-[470px] md:w-[400px] sm:w-[380px] w-[300px] absolute px-8 lg:mx-10 xl:mx-0 lg:py-10 py-4 lg:mr-0 md:mr-72">
             <p class="lg:text-4xl md:text-3xl text-xl font-semibold md:py-4" >BRANDING & DESIGN</p>
             <p class="lg:text-[1.050rem] lg:py-4 py-2 text-small">Quam nulla porttitor massa id neque aliquam vestibulum morbi. Eu consequat ac felis donec et odio pellentesque. Turpis nunc eget lorem dolor sed. Ornare quam viverra orci sagittis eu volutpat odio. Sed vulputate odio ut enim blandit volutpat.</p>
             <p class="lg:py-8 py-4 text-lg">Images from <a class="underline underline-offset-8 text-white cursor-pointer hover:bg-white "> Freepik</a></p>
@@ -230,8 +230,8 @@
             <p class="bg-[#f49ea8] hover:bg-[#259bca]  text-white px-10 py-3 font-bold text-lg rounded-full tracking-widest">LEARN MORE</p>
           </div>
           </div>
-          <div class=" flex self-end lg:ml-[110px]">
-            <img class="lg:min-h-[300px] min-h-[262px] lg:mt-0 mt-36 md:ml-0 ml-20 xl:max-w-[650px] lg:max-w-[550px] md:max-w-[450px]  max-w-[360px] object-[44% 50%] object-cover" src="https://images02.nicepage.com/c461c07a441a5d220e8feb1a/6baa3038983251ae8c7607a8/yhjcg.jpg"/>
+          <div class=" flex self-end lg:ml-[110px] md:pl-0 sm:pl-72 pl-20">
+            <img class="lg:min-h-[300px] min-h-[262px] lg:mt-0 mt-36 md:ml-0 dm:ml-0 sm:pl-0 pl-10 xl:max-w-[650px] lg:max-w-[550px]  md:max-w-[550px] max-w-full object-[44% 50%] object-cover" src="https://images02.nicepage.com/c461c07a441a5d220e8feb1a/6baa3038983251ae8c7607a8/yhjcg.jpg"/>
           </div>
         </div>
       </div>
@@ -240,7 +240,7 @@
 
     <!-- third section -->
       <section class="lg:min-h-[850px]  md:min-h-[700px] min-h-[1020px] bg-[#f9c9ce] ">
-        <div class=" md:pt-16 lg:p-6 xl-10 pt-20 sm:p-8 p-8 relative " > 
+        <div class=" md:pt-16 lg:p-8 lg:pt-16 xl-10 pt-20 sm:p-8 p-8 relative " > 
           <div class="w-52 color-white absolute mt-[-1rem] xl:left-20 left-0">
             <svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" xml:space="preserve" class="u-svg-content fill-white" viewBox="0 0 160 160" x="0px" y="0px" id="svg-0a30"><path d="M114.3,152.3l38-38C144.4,130.9,130.9,144.4,114.3,152.3z M117.1,9.1l-108,108c0.8,1.6,1.7,3.2,2.7,4.8l110-110
             C120.3,10.9,118.7,10,117.1,9.1z M97.5,2L2,97.5c0.4,2,1,4,1.5,5.9l99.9-99.9C101.5,2.9,99.5,2.4,97.5,2z M80,160c2,0,4-0.1,5.9-0.2
@@ -293,14 +293,14 @@
       <section id="project" class="">
         <div class="sm:grid grid-cols-1 xl:grid-cols-3 lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-1 md:pb-0 pb-10">
           <div class="w-full col-span-2 py-10 font-sans">
-            <div class="sm:pl-24 pl-5">
+            <div class="lg:pl-16 xl:pl-24 sm:pl-24 pl-5">
               <p class="text-xl font-normal text-black my-4">WHAT WE DO</p>
               <h1 class="text-[#2530c9] sm:text-5xl font-semibold my-4 text-4xl">About Us & Our Work</h1>
               <p class="text-[1.115rem] text-black xl:pr-64 sm:pr-10 md:pr-0 lg:pr-20 pr-10">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             </div>
             <div class=" grid grid-cols-1 pt-8" >
               <div>
-              <div class=" text-3xl text-black sm:pl-24 pl-5" >
+              <div class=" text-3xl text-black lg:pl-16 xl:pl-24 sm:pl-24 pl-5" >
                 <i class="fi fi-rs-angle-right"></i>
               </div>
              </div>
@@ -322,7 +322,7 @@
           </div>
         </div>
         <div class=" md:self-center sm:absolute absolute xl:mt-32 lg:mt-32 md:mt-40  mt-0 sm:grid grid-cols-3  relative self-end">
-          <p class="w-full text-black text-[1.125rem]  xl:pl-24 lg:pr-5 md:pl-24 sm:mt-32 sm:px-0 px-10" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p class="w-full text-black text-[1.125rem]  xl:pl-24 lg:pr-10 md:pl-24 sm:mt-32 sm:px-0 px-10" >Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
         </div>
       </div>     
       </section>
