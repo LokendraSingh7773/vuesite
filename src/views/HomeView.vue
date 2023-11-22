@@ -399,7 +399,7 @@
             </div>
             <div class="pb-8">
               <p class="text-[#fc1aaf] text-3xl font-semibold">Email</p>
-              <a href="mailto:lokendrasingh07773@email.com" class="pt-4 font-bold text-[#2530c9] underline underline-offset-4 text-lg hover:bg-[#ffffff00]">info@example.com</a>
+              <a href="mailto:lokendrasingh07773@email.com" class="pt-4 font-bold text-[#2530c9] underline underline-offset-4 text-lg hover:bg-[#ffffff00]">@example.com</a>
             </div>
 
             <div class="sm:grid sm:justify-items-center lg:justify-items-start md:justify-items-center xl:justify-items-start grid justify-items-center mb-10">
@@ -435,8 +435,8 @@
       </section>
 
       <section class="bg-black min-h-[75px] flex justify-center items-center">
-        <div class="text-white">
-          <p> @copyright Microprixs Solution Pvt. Ltd</p>
+        <div >
+          <a target="blank" href="https://www.microprixs.com" class="text-white  hover:bg-[#ffffff00] "> @copyright Microprixs Solution Pvt. Ltd</a>          
         </div>
       </section>
 </template>
