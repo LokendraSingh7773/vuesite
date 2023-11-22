@@ -186,7 +186,7 @@
     <!-- New Section  -->
     <section>
       <div class="grid lg:grid-cols-2 lg:mt-16 mt-32 mb-10 lg:min-h-[800px] min-h-[900px]">
-        <div class="flex relative flex-col justify-center flex-nowrap  lg:min-w-[52rem] sm:pr-0 pr-16">
+        <div class="flex relative flex-col justify-center flex-nowrap  lg:min-w-[52rem] sm:pr-0 pr-6">
           <div class="bg-[#f9c9ce] min-h-[190px] flex lg:justify-center-items lg:justify-center justify-end items-center xl:max-w-[880px] lg:max-w-[800px] md:max-w-[800px] sm:max-w-[650px] max-w-[650px] ">     
             <div class="bg-cover bg-center absolute md:min-h-[360px] md:w-[380px] lg:w-[280px] w-[320px] h-[400px] border-4 border-white lg:ml-0 lg:ml-0 lg:mr-[0px] mb-[14px]" style="background-image: url('https://images02.nicepage.com/c461c07a441a5d220e8feb1a/6d35051f156a5a558e14089e/v.jpg?version=;')"></div>            
           </div> 
@@ -222,7 +222,7 @@
         
         <!-- 2nd Section -->
         <div class="md:items-center md:flex lg:mt-20 mt-10 flex   lg:justify-start sm:justify-center md:justify-end  sm:pl-0  pl-12">
-          <div class="bg-[#2530c9] text-white lg:w-[470px] md:w-[400px] sm:w-[380px] w-[300px] absolute px-8 lg:mx-10 xl:mx-0 lg:py-10 py-4 lg:mr-0 md:mr-72">
+          <div class="bg-[#2530c9] text-white lg:w-[470px] md:w-[400px] sm:w-[380px] w-[300px] absolute px-8 lg:mx-10 xl:mx-0 lg:py-10 py-4 lg:mr-0 md:mr-60">
             <p class="lg:text-4xl md:text-3xl text-xl font-semibold md:py-4" >BRANDING & DESIGN</p>
             <p class="lg:text-[1.050rem] lg:py-4 py-2 text-small">Quam nulla porttitor massa id neque aliquam vestibulum morbi. Eu consequat ac felis donec et odio pellentesque. Turpis nunc eget lorem dolor sed. Ornare quam viverra orci sagittis eu volutpat odio. Sed vulputate odio ut enim blandit volutpat.</p>
             <p class="lg:py-8 py-4 text-lg">Images from <a class="underline underline-offset-8 text-white cursor-pointer hover:bg-white "> Freepik</a></p>
@@ -230,8 +230,8 @@
             <p class="bg-[#f49ea8] hover:bg-[#259bca]  text-white px-10 py-3 font-bold text-lg rounded-full tracking-widest">LEARN MORE</p>
           </div>
           </div>
-          <div class=" flex self-end lg:ml-[110px] md:pl-0 sm:pl-72 pl-20">
-            <img class="lg:min-h-[300px] min-h-[262px] lg:mt-0 mt-36 md:ml-0 dm:ml-0 sm:pl-0 pl-10 xl:max-w-[650px] lg:max-w-[550px]  md:max-w-[550px] max-w-full object-[44% 50%] object-cover" src="https://images02.nicepage.com/c461c07a441a5d220e8feb1a/6baa3038983251ae8c7607a8/yhjcg.jpg"/>
+          <div class=" flex self-end lg:pl-[110px] md:pl-96 sm:pl-72 pl-20">
+            <img class="lg:min-h-[300px] min-h-[262px] lg:mt-0 mt-36 md:ml-0 dm:ml-0 sm:pl-0 pl-0 xl:max-w-6/12 lg:max-w-6/12  md:max-w-5/12 sm:max-w-5/12 max-w-full object-[44% 50%] object-cover" src="https://images02.nicepage.com/c461c07a441a5d220e8feb1a/6baa3038983251ae8c7607a8/yhjcg.jpg"/>
           </div>
         </div>
       </div>
